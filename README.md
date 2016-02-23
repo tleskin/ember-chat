@@ -1,7 +1,8 @@
 # Ember-chat
 
 This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+
+Ember Chat is a simple chat app that uses Firebase and EmberFire. It was created for a presentation for the Denver EmberJS meetup on Feb. 24, 2016.
 
 ## Prerequisites
 
@@ -50,4 +51,3 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
